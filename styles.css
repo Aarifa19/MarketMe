@@ -1,0 +1,23 @@
+header{
+    padding:20px;
+    text-align: center;
+}
+.flexy{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+nav li{
+    list-style: none;
+    margin-right:20px;
+}
+nav a{
+    margin-top:10px;
+}
+.logo{
+    margin-top:10px;
+}
+.logo h1{
+    font-size: 24px;
+    margin:0;
+}
